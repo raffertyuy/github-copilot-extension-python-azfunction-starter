@@ -1,0 +1,41 @@
+{
+  "copilot_thread_id": "b642f692-530e-43bb-8021-e253aa40e4b1",
+  "messages": [
+    {
+      "role": "user",
+      "content": "good morning",
+      "copilot_confirmation": null,
+      "copilot_references": null,
+      "copilot_errors": null
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, user! You said: \"good morning\"",
+      "copilot_confirmation": null,
+      "copilot_references": null,
+      "copilot_errors": null
+    },
+    {
+      "role": "user",
+      "content": "Are you a parrot?",
+      "copilot_confirmation": null,
+      "copilot_references": null,
+      "copilot_errors": null
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, user! You said: \"Are you a parrot?\"",
+      "copilot_confirmation": null,
+      "copilot_references": null,
+      "copilot_errors": null
+    },
+    {
+      "role": "user",
+      "content": "This is my last message",
+      "copilot_confirmation": null,
+      "copilot_references": null,
+      "copilot_errors": null
+    }
+  ],
+  "agent": ""
+}

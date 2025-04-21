@@ -1,7 +1,7 @@
 # github-copilot-extension-python-azfunction-starter
 
 This is a simple GitHub Copilot Chat extension that simply echo's what you say.
-This sample is developed using Python and is to be deployed in Azure Functions. If you're looking for a Node.js starter, check out [this repository](https://github.com/raffertyuy/github-copilot-extension-azfunction-starter).
+This sample is developed using Python and is to be deployed in Azure Functions. If you're looking for a Node.js starter, check out [this repository](https://github.com/raffertyuy/github-copilot-extension-nodejs-azfunction-starter).
 
 ![Copilot Extension in VS Code](./media/vscode-chat.png)
 ![Copilot Extension in GitHub.com](./media/github-chat.png)
